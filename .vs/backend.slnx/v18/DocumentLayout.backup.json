@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jayesh\\source\\repos\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\migrations\\20260829183247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20260829183247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\data\\applicationdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\data\\applicationdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260829183247_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Migrations\\20260829183247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20260829183247_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Migrations\\20260829183247_InitialCreate.cs",
+              "RelativeToolTip": "backend\\Migrations\\20260829183247_InitialCreate.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:32:47.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:27:20.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T18:24:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Data\\ApplicationDatabaseContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\ApplicationDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Data\\ApplicationDatabaseContext.cs",
+              "RelativeToolTip": "backend\\Data\\ApplicationDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:11:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-29T18:10:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "backend\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:10:45.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

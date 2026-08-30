@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jayesh\\source\\repos\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|c:\\users\\jayesh\\source\\repos\\backend\\backend\\models\\registerdot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFF2906-2573-4C30-AA16-FF5B877DF909}|backend\\backend.csproj|solutionrelative:backend\\models\\registerdot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "backend\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:39:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDot.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Models\\RegisterDot.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\RegisterDot.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Models\\RegisterDot.cs*",
+              "RelativeToolTip": "backend\\Models\\RegisterDot.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:38:53.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jayesh\\source\\repos\\backend\\backend\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:36:23.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
